@@ -1,6 +1,6 @@
 # TIL
->> Today I Learned
->> Git과 함께하는 백지복습
+> Today I Learned
+> Git과 함께하는 백지복습
 
 ---
 
