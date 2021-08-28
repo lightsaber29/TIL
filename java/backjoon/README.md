@@ -1,6 +1,6 @@
 # 어떤 문제든 다 풀어내는 개발자가 되자
 
-![julmi](https://user-images.githubusercontent.com/72715023/129837701-ad832356-29a9-40d9-b92a-05e98e33d178.jpeg){: width="100" height="100"}
+![jeolmi](https://user-images.githubusercontent.com/72715023/131202550-3138eb52-0fab-4b93-abff-b097dfc334b7.jpeg)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lightsaber29)](https://solved.ac/lightsaber29/)
 
 
